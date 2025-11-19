@@ -8,6 +8,7 @@ Collaboration: Open to working on new projects and contributions!
 
 Contact
 Reach Me: linkedin.com/in/archishasingh
+ or archishaas2000@gmail.com
 
 <!---
 ArchiBuilder/ArchiBuilder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
