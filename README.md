@@ -7,7 +7,7 @@ Current Role: Software Developer at Google, primarily working on Looker.
 Collaboration: Open to working on new projects and contributions!
 
 Contact
-Reach Me: [Insert your preferred contact method here, e.g., your LinkedIn URL or professional email]
+Reach Me: linkedin.com/in/archishasingh
 
 <!---
 ArchiBuilder/ArchiBuilder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
