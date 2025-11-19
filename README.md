@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @ArchiBuilder (Archisha)
-- 👀 I’m interested in ... Competitive coding, Rockets, Circuit design, IOT, Electronics
-- 🌱 I’m currently learning ... Programming paradigms, Python, C++
-- 💞️ I’m looking to collaborate on ... TBD
-- 📫 How to reach me ... 
+🚀 Archisha | Software Developer (Looker)
+👋 Hi, I’m Archisha (@ArchiBuilder).
+
+Focus & Collaboration
+Current Role: Software Developer at Google, primarily working on Looker.
+
+Collaboration: Open to working on new projects and contributions!
+
+Contact
+Reach Me: [Insert your preferred contact method here, e.g., your LinkedIn URL or professional email]
 
 <!---
 ArchiBuilder/ArchiBuilder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
